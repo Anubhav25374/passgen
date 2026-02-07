@@ -72,7 +72,7 @@ This project is perfect for:
 ## 📸 Project Preview
 ![Password Generator UI](brave_screenshot.png)
 
-
+<br />
 ---
-## Live Link
+## Live Link  
 [Check it out](https://passgen8er.netlify.app/)
