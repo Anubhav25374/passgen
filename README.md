@@ -70,9 +70,4 @@ This project is perfect for:
 ---
 
 ## 📸 Project Preview
-
-> Add screenshots of your application interface here for better presentation.
-
-```md
-![Password Generator UI](screenshot1.png)
-![Password Generator Options](screenshot2.png)
+![Password Generator UI](brave_screenshot.png)
