@@ -1,4 +1,3 @@
-# passgen
 # 🔐 Password Generator Web Application
 
 A modern, secure, and user-friendly **Password Generator** built using core web technologies.  
